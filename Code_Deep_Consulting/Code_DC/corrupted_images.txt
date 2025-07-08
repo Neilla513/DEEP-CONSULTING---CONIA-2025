@@ -1,0 +1,2 @@
+Liste des images corrompues ou invalides détectées dans le dataset :
+Data\HEATHLY\Image_1935.jpg
